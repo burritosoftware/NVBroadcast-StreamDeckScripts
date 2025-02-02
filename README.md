@@ -1,8 +1,10 @@
 # NVIDIA Broadcast Stream Deck Scripts
 AutoHotkey scripts to control NVIDIA Broadcast filters from a Stream Deck or any launcher that can open .ahk files.
 
+![Demonstration GIF](https://github.com/user-attachments/assets/09424ab5-0ea0-4a50-af3c-59b59663e639)
+
 ## Setup
-1. Make sure you have [AutoHotkey v2.0](https://www.autohotkey.com/) installed.
+1. Make sure you have [AutoHotkey v2.0](https://www.autohotkey.com/) installed, and [NVIDIA Broadcast v2.0+](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/) installed
 2. Download this repository as a .zip by pressing the green **Code** button at the top, followed by Download ZIP. Extract the .zip where you want to store the scripts.
 3. Choose whether you want to have status-synced buttons, or generic toggle buttons.
 
